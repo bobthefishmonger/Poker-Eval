@@ -40,7 +40,7 @@ function evaluate7cards(cards) {
 		[2, 3, 4, 5, 6]
 	];
 
-	let bestscore = evaluate5cards(
+	let bestscore = eval.evaluate5cardsbin(
 		cards[0],
 		cards[1],
 		cards[2],
