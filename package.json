@@ -1,0 +1,23 @@
+{
+  "name": "poker-eval",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation of Cactus Kev's and Paul Senzee's poker evaluator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobthefishmonger/Poker-Evaluator.git"
+  },
+  "keywords": [
+    "poker",
+    "Evaluator"
+  ],
+  "author": "bobthefishmonger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobthefishmonger/Poker-Evaluator/issues"
+  },
+  "homepage": "https://github.com/bobthefishmonger/Poker-Evaluator#readme"
+}
